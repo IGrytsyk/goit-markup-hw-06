@@ -896,7 +896,7 @@ margin-bottom: 96px ;
     width: 356px;
   }
 }
-@media only screen and (min-width: minwidthpx) {
+@media only screen and (min-width: 1158px) {
   .portfolio-icon {
     width: 360px;
   }
